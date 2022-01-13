@@ -1,0 +1,67 @@
+.banner {
+  background-image: url(img/background.jpg);
+  no-repeat center center
+  background-size: cover;
+  padding-top: 10%;
+  padding-bottom: 20%;
+  color: rgb(255, 255, 255);
+}
+#button {
+    color: rgb(255, 255, 255);
+    background-color: #00ffff;
+}
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: rgb(255, 255, 255);
+    background-color: #00ffff;
+}
+.lingkaran i {
+    position: relative;
+  top: 30%;
+}
+.stroke {
+
+   
+    font-weight: 100;
+    -webkit-text-stroke:2pt #ffffff;
+ }
+ #galery {
+    background-color: #273036;
+ }
+ .tim img{
+     width: 250px;
+
+ }
+ a.social {
+     display: inline-block;
+     width: 40px;
+     height: 40px;
+     color: #273036;
+     border-radius: 50%;
+     background-color: #ffffff;
+     line-height: 40px;
+ }
+ #contact {
+    background-color: #273036;
+ }
+ #span #i {
+     position: relative;
+     top: 30%;
+ }
+ .bunder {
+    display: inline-block;
+    border-radius: 50%;
+    width: 200px;
+    margin: auto;
+    height: 200px;
+    color: rgb(255, 255, 255);
+    background-color: #00ffff;
+}  
+ }
+ #navjing {
+     background-color: #273036;
+ }
