@@ -8,7 +8,7 @@
 }
 #button {
     color: rgb(255, 255, 255);
-    background-color: #00ffff;
+    background-color:#ffffff;
 }
 .lingkaran {
     display: inline-block;
@@ -17,7 +17,7 @@
     margin: auto;
     height: 150px;
     color: rgb(255, 255, 255);
-    background-color: #00ffff;
+    background-color: #273036;
 }
 .lingkaran i {
     position: relative;
